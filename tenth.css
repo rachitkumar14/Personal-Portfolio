@@ -303,26 +303,26 @@ input::placeholder{
         display: none;
     }
     .html{
-        gap: 325px;
+        gap: 240px;
         border-bottom: 5px red solid;
     }
     .css{
-        gap: 300px;
+        gap: 220px;
         border-bottom: 5px skyblue solid;
-        width: 87%;
+        width: 80%;
     }
     .js{
-        gap: 190px;
+        gap: 130px;
         border-bottom: yellow 5px solid;
-        width: 75%;
+        width: 70%;
     }
     .Bootstrap{
-        gap: 120px;
+        gap: 70px;
         border-bottom: solid purple 5px;
-        width: 55%;
+        width: 50%;
     }
     .react{
-        gap: 60px;
+        gap:40px;
         border-bottom: solid skyblue 5px;
         width: 37%;
     }
