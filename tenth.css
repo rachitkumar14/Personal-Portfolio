@@ -283,7 +283,7 @@ input::placeholder{
    position: fixed;
    background-color: rgb(6, 5, 63);
    border-radius: 28px;
-   left: 15%;   
+   left: 7%;   
 }
 .media-lists ul li a:hover{
     background-color:white;
