@@ -181,7 +181,7 @@ width: 100%;
 /* Services */
 .cards {
     justify-content: space-evenly;
-    width: 97vw;
+    width: 100vw;
 }
 .service-card h2 , .project-card h2{
     color: white;
